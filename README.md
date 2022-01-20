@@ -4,6 +4,7 @@ For setup:
 
 ```
 git clone https://github.com/ilanmotiei/Bitsonic-Project.git
+cd Bitsonic-Project
 pip3 install -r requirements.txt
 ```
 
