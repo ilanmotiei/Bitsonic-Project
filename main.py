@@ -227,4 +227,4 @@ if __name__ == "__main__":
                                                        curr_title,
                                                        curr_source)
 
-    out_df.to_csv(path_or_buf='result_new.csv')
+    out_df.to_csv(path_or_buf='result.csv')
