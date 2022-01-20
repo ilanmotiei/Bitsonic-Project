@@ -13,3 +13,5 @@ For running:
 ```
 python3 main.py
 ```
+
+Results will be saved at your current directory, in the file 'result.csv'.
