@@ -1,0 +1,5 @@
+git+https://github.com/timClicks/slate.git
+itertools
+pandas
+re
+functools
